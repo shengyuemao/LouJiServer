@@ -1,0 +1,99 @@
+[ 2015-05-06T17:43:51+08:00 ] 192.168.1.109 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.487028s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.041002s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.078004s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:1.2411s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.2620s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0220s ]
+
+[ 2015-05-06T17:48:11+08:00 ] 192.168.1.109 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0150s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0000s ]
+
+[ 2015-05-06T17:49:24+08:00 ] 192.168.1.109 /first/androidSync.php/Home/User/register/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0350s ]
+SQL: SELECT * FROM `think_user` WHERE `username` = '阿茂'  [ RunTime:0.0550s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-06T17:51:17+08:00 ] 192.168.1.109 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0110s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0010s ]
+
+[ 2015-05-06T17:52:27+08:00 ] 192.168.1.109 /first/androidSync.php/Home/User/register/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0330s ]
+SQL: SELECT * FROM `think_user` WHERE `username` = '盛世大侠'  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-06T17:52:28+08:00 ] 192.168.1.109 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0030s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0010s ]
+
+[ 2015-05-06T18:05:08+08:00 ] 192.168.1.109 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0040s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0000s ]
+
+[ 2015-05-06T19:37:10+08:00 ] 192.168.1.109 /first/androidSync.php/Home/User/register/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0140s ]
+SQL: SELECT * FROM `think_user` WHERE `username` = '盛世大侠'  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015001s ]
+

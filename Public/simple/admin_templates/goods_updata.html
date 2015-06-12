@@ -1,0 +1,60 @@
+
+<style media="all" type="text/css">
+@import "/first/Public/uploadify/uploadify.css";
+</style>
+<script src="/first/Public/uploadify/jquery.uploadify.min.js"></script>
+
+<script src="/first/Public/simple/js/admin/goods_updata.js"></script>
+<div class="top-bar">
+	<h1>当前位置</h1>
+	<div class="breadcrumbs">
+		<span>商品管理</span> - <span>修改商品信息</span>
+	</div>
+</div>
+<div class="table">
+	<img src="/first/Public/simple/images/bg-th-left.gif" alt=""
+		class="left" height="7" width="8" /> <img
+		src="/first/Public/simple/images/bg-th-right.gif" alt="" class="right"
+		height="7" width="7" />
+	<table class="listing form" cellpadding="0" cellspacing="0">
+		<tbody>
+			<tr>
+				<th class="full" colspan="2">输入信息</th>
+			</tr>
+			<tr>
+				<td class="first" width="172"><strong>商品名称</strong></td>
+				<td class="last"><input class="text" type="text" id="goodname" /></td>
+			</tr>
+			<tr class="bg">
+				<td class="first"><strong>商品描述</strong></td>
+				<td class="last"><input class="text" type="text"
+					id="goodcontent" /></td>
+			</tr>
+			<tr>
+				<td class="first"><strong>商品活动</strong></td>
+				<td class="last"><input class="text" type="text"
+					id="goodaction" /></td>
+			</tr>
+			<tr>
+				<td class="first"><strong>商品位置</strong></td>
+				<td class="last"><input class="text" type="text"
+					id="goodlocation" /></td>
+			</tr>
+			<tr>
+				<td class="first"><strong>商品价格</strong></td>
+				<td class="last"><input class="text" type="text" id="goodprice" /></td>
+			</tr>
+			<tr>
+				<td class="first"><strong>商品图片</strong></td>
+				<td class="last"><input type="file" id="goodphoto"
+					name="goodphoto" /><img id="image" class="image" /></td>
+			</tr>
+			<tr class="bg">
+				<td class="first">&nbsp;</td>
+				<td class="last"><input type="button" value="修改"
+					id="btn_submit" /></td>
+			</tr>
+		</tbody>
+	</table>
+	<p>&nbsp;</p>
+</div>

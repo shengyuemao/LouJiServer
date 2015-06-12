@@ -1,0 +1,600 @@
+[ 2015-05-13T09:42:27+08:00 ] 192.168.1.100 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.046003s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011001s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.5110s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0280s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0080s ]
+
+[ 2015-05-13T09:42:29+08:00 ] 192.168.1.100 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0040s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0000s ]
+
+[ 2015-05-13T09:50:08+08:00 ] 192.168.1.100 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0030s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0010s ]
+
+[ 2015-05-13T09:57:44+08:00 ] 192.168.1.103 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0030s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0000s ]
+
+[ 2015-05-13T10:09:21+08:00 ] 192.168.1.103 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0030s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0010s ]
+
+[ 2015-05-13T10:32:19+08:00 ] 192.168.1.103 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0030s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0010s ]
+
+[ 2015-05-13T10:36:25+08:00 ] 192.168.1.100 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0030s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0000s ]
+
+[ 2015-05-13T10:37:07+08:00 ] 192.168.1.103 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0030s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0000s ]
+
+[ 2015-05-13T10:43:00+08:00 ] 192.168.1.100 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0050s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0000s ]
+
+[ 2015-05-13T11:13:35+08:00 ] 192.168.1.100 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0060s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0010s ]
+
+[ 2015-05-13T11:16:48+08:00 ] 192.168.1.100 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0020s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0000s ]
+
+[ 2015-05-13T11:17:41+08:00 ] 192.168.1.100 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0130s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0000s ]
+
+[ 2015-05-13T11:18:51+08:00 ] 192.168.1.100 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0030s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0000s ]
+
+[ 2015-05-13T11:19:29+08:00 ] 192.168.1.100 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0050s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0010s ]
+
+[ 2015-05-13T11:23:00+08:00 ] 192.168.1.100 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0050s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0010s ]
+
+[ 2015-05-13T11:25:27+08:00 ] 192.168.1.100 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0040s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0010s ]
+
+[ 2015-05-13T11:50:52+08:00 ] 192.168.1.105 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0050s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0000s ]
+
+[ 2015-05-13T12:03:03+08:00 ] 192.168.1.103 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0020s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0000s ]
+
+[ 2015-05-13T12:07:18+08:00 ] 192.168.1.103 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0030s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0000s ]
+
+[ 2015-05-13T14:11:08+08:00 ] 192.168.1.107 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009001s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0060s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0010s ]
+
+[ 2015-05-13T14:24:40+08:00 ] 192.168.1.105 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0040s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0000s ]
+
+[ 2015-05-13T14:29:35+08:00 ] 192.168.1.105 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0030s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0010s ]
+
+[ 2015-05-13T14:32:41+08:00 ] 192.168.1.105 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0040s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0000s ]
+
+[ 2015-05-13T15:00:23+08:00 ] 192.168.1.105 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0030s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0000s ]
+
+[ 2015-05-13T15:00:38+08:00 ] 192.168.1.105 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0030s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0010s ]
+
+[ 2015-05-13T15:02:40+08:00 ] 192.168.1.107 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0060s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0010s ]
+
+[ 2015-05-13T15:26:46+08:00 ] 192.168.1.107 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0030s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0010s ]
+
+[ 2015-05-13T15:54:40+08:00 ] 192.168.1.105 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0090s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0000s ]
+
+[ 2015-05-13T15:57:44+08:00 ] 192.168.1.107 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0040s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0010s ]
+
+[ 2015-05-13T16:00:21+08:00 ] 192.168.1.105 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0030s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0010s ]
+
+[ 2015-05-13T16:03:32+08:00 ] 192.168.1.105 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0130s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0010s ]
+
+[ 2015-05-13T16:18:55+08:00 ] 192.168.1.107 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0040s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0000s ]
+
+[ 2015-05-13T16:19:17+08:00 ] 192.168.1.107 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0030s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0000s ]
+
+[ 2015-05-13T16:20:57+08:00 ] 192.168.1.107 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0110s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0010s ]
+
+[ 2015-05-13T16:22:52+08:00 ] 192.168.1.107 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0030s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0000s ]
+
+[ 2015-05-13T16:37:34+08:00 ] 192.168.1.107 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0030s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0010s ]
+
+[ 2015-05-13T16:39:20+08:00 ] 192.168.1.107 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0080s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0000s ]
+
+[ 2015-05-13T16:40:32+08:00 ] 192.168.1.107 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0030s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0000s ]
+
+[ 2015-05-13T16:43:57+08:00 ] 192.168.1.107 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0030s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0000s ]
+
+[ 2015-05-13T16:45:34+08:00 ] 192.168.1.107 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0040s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0010s ]
+
+[ 2015-05-13T16:46:34+08:00 ] 192.168.1.107 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0030s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0000s ]
+
+[ 2015-05-13T16:46:52+08:00 ] 192.168.1.107 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0100s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0010s ]
+
+[ 2015-05-13T16:51:09+08:00 ] 192.168.1.107 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0060s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0000s ]
+
+[ 2015-05-13T16:53:07+08:00 ] 192.168.1.107 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0050s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0010s ]
+
+[ 2015-05-13T17:19:05+08:00 ] 192.168.1.107 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0270s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0010s ]
+
+[ 2015-05-13T17:20:36+08:00 ] 192.168.1.107 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0290s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0490s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0010s ]
+
+[ 2015-05-13T17:28:20+08:00 ] 192.168.1.107 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0170s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0010s ]
+
+[ 2015-05-13T17:30:50+08:00 ] 192.168.1.107 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0090s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0010s ]
+
+[ 2015-05-13T17:47:03+08:00 ] 192.168.1.107 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0030s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0000s ]
+
+[ 2015-05-13T17:47:07+08:00 ] 192.168.1.107 /first/androidSync.php/Home/Goods/ajax_goods_type_list/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0530s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\AndroidSync\Home\Controller\GoodsController.class.php 第 51 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0010s ]
+

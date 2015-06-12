@@ -1,0 +1,34 @@
+       <style media="all" type="text/css">@import "/first/Public/uploadify/uploadify.css";</style>
+		<script src="/first/Public/uploadify/jquery.uploadify.min.js"></script>
+	    <script src="/first/Public/simple/js/admin/goods_type_add.js"></script>	
+
+			<div class="top-bar">				
+				<h1>当前位置</h1>
+				<div class="breadcrumbs"><span>商品管理</span> - <span>添加商品</span></div>
+			</div>
+<!-- 			<form action="ajax_goods_add" enctype="multipart/form-data" method="post" id="main_form" > -->
+			<div class="table">
+				<img src="/first/Public/simple/images/bg-th-left.gif" alt="" class="left" height="7" width="8" />
+				<img src="/first/Public/simple/images/bg-th-right.gif" alt="" class="right" height="7" width="7" />
+				<table class="listing form" cellpadding="0" cellspacing="0"><tbody>
+					<tr>
+						<th class="full" colspan="2">输入信息</th>
+					</tr>
+					<tr>
+						<td class="first" width="172"><strong>种类名称</strong></td>
+						<td class="last"><input class="text" type="text" id="goodtypename" /></td>
+					</tr>
+					
+					<tr>
+						<td class="first"><strong>种类图片</strong></td>
+						<td class="last"><input type="file" id="goodtypephoto" name = "goodtypephoto"/><img id="image" class="image"/></td>
+					</tr>
+					<tr class="bg">
+						<td class="first">&nbsp;</td>
+						<td class="last">
+							<input type="button" value="添加" id="btn_submit" />
+						</td>
+					</tr>
+				</tbody></table>
+				<p>&nbsp;</p>
+		    </div>

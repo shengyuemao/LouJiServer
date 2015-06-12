@@ -1,0 +1,898 @@
+[ 2015-05-20T09:24:27+08:00 ] 127.0.0.1 /first/admin.php/Home/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.037002s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.012001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant Admin - assumed 'Admin' D:\wamp\www\First\Admin\Runtime\Cache\Home\c09665db8c8380dc4786202d054ddd84.php 第 24 行.
+NOTIC: [8] Use of undefined constant ajax_login - assumed 'ajax_login' D:\wamp\www\First\Admin\Runtime\Cache\Home\c09665db8c8380dc4786202d054ddd84.php 第 24 行.
+NOTIC: [2] Division by zero D:\wamp\www\First\Admin\Runtime\Cache\Home\c09665db8c8380dc4786202d054ddd84.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.104006s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.105006s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.019001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.019001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.020001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.020001s ]
+
+[ 2015-05-20T09:24:28+08:00 ] 127.0.0.1 /first/admin.php/Public/simple/images/a_login3.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-20T09:24:28+08:00 ] 127.0.0.1 /first/admin.php/Public/simple/images/a_login2.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-20T09:24:28+08:00 ] 127.0.0.1 /first/admin.php/Public/simple/images/a_login1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-20T09:24:28+08:00 ] 127.0.0.1 /first/admin.php/Home/Admin/get_code
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-05-20T09:24:42+08:00 ] 127.0.0.1 /first/admin.php/Home/Admin/ajax_login?username=1234567&password=123456&code=8012
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0460s ]
+SQL: SELECT * FROM `think_user` WHERE ( username = '1234567' and password = '123456' ) LIMIT 1   [ RunTime:0.0060s ]
+
+[ 2015-05-20T09:24:42+08:00 ] 127.0.0.1 /first/admin.php/Home/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-20T09:24:42+08:00 ] 127.0.0.1 /first/admin.php/Home/Admin/ajax_menu_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-20T09:24:57+08:00 ] 127.0.0.1 /first/admin.php/Home/Admin/ajax_goods_type_list?random=0.5505664499942213
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.1530s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0260s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\Admin\Home\Controller\AdminController.class.php 第 357 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0010s ]
+
+[ 2015-05-20T09:25:02+08:00 ] 127.0.0.1 /first/admin.php/Home/Admin/ajax_goods_list?random=0.3683212688192725
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: gtypeid D:\wamp\www\First\Admin\Home\Controller\AdminController.class.php 第 177 行.
+SQL: SHOW COLUMNS FROM `think_goods` [ RunTime:0.0470s ]
+SQL: SELECT count(gid) as total FROM `think_goods`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\Admin\Home\Controller\AdminController.class.php 第 375 行.
+SQL: SELECT * FROM `think_goods` ORDER BY gid desc LIMIT 0,16   [ RunTime:0.0000s ]
+NOTIC: [8] A non well formed numeric value encountered D:\wamp\www\First\Admin\Home\Controller\AdminController.class.php 第 387 行.
+NOTIC: [8] A non well formed numeric value encountered D:\wamp\www\First\Admin\Home\Controller\AdminController.class.php 第 387 行.
+
+[ 2015-05-20T09:25:13+08:00 ] 127.0.0.1 /first/admin.php/Home/Admin/ajax_goods_list?random=0.07616838137619197
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: gtypeid D:\wamp\www\First\Admin\Home\Controller\AdminController.class.php 第 177 行.
+SQL: SHOW COLUMNS FROM `think_goods` [ RunTime:0.0030s ]
+SQL: SELECT count(gid) as total FROM `think_goods`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\Admin\Home\Controller\AdminController.class.php 第 375 行.
+SQL: SELECT * FROM `think_goods` ORDER BY gid desc LIMIT 0,16   [ RunTime:0.0000s ]
+NOTIC: [8] A non well formed numeric value encountered D:\wamp\www\First\Admin\Home\Controller\AdminController.class.php 第 387 行.
+NOTIC: [8] A non well formed numeric value encountered D:\wamp\www\First\Admin\Home\Controller\AdminController.class.php 第 387 行.
+
+[ 2015-05-20T09:25:16+08:00 ] 127.0.0.1 /first/admin.php/Home/Admin/ajax_goods_type_list?random=0.7853336092084646
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0030s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\Admin\Home\Controller\AdminController.class.php 第 357 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0010s ]
+
+[ 2015-05-20T09:25:20+08:00 ] 127.0.0.1 /first/admin.php/Home/Admin/ajax_goods_list?gtypeid=20&random=0.46909064799547195
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `think_goods` [ RunTime:0.0040s ]
+SQL: SELECT count(gid) as total FROM `think_goods`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\Admin\Home\Controller\AdminController.class.php 第 375 行.
+SQL: SELECT * FROM `think_goods` WHERE `gtypeid` = 20 ORDER BY gid desc LIMIT 0,16   [ RunTime:0.0000s ]
+
+[ 2015-05-20T09:25:21+08:00 ] 127.0.0.1 /first/admin.php/Home/Admin/ajax_goods_list?random=0.8704214624594897
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_goods` [ RunTime:0.0030s ]
+SQL: SELECT count(gid) as total FROM `think_goods`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\Admin\Home\Controller\AdminController.class.php 第 375 行.
+SQL: SELECT * FROM `think_goods` WHERE `gtypeid` = 20 ORDER BY gid desc LIMIT 0,16   [ RunTime:0.0000s ]
+
+[ 2015-05-20T09:25:25+08:00 ] 127.0.0.1 /first/admin.php/Home/Admin/ajax_goods_type_list?random=0.47182756499387324
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0030s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\Admin\Home\Controller\AdminController.class.php 第 357 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0000s ]
+
+[ 2015-05-20T09:25:28+08:00 ] 127.0.0.1 /first/admin.php/Home/Admin/ajax_goods_list?gtypeid=4&random=0.044785560574382544
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `think_goods` [ RunTime:0.0050s ]
+SQL: SELECT count(gid) as total FROM `think_goods`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\Admin\Home\Controller\AdminController.class.php 第 375 行.
+SQL: SELECT * FROM `think_goods` WHERE `gtypeid` = 4 ORDER BY gid desc LIMIT 0,16   [ RunTime:0.0000s ]
+NOTIC: [8] A non well formed numeric value encountered D:\wamp\www\First\Admin\Home\Controller\AdminController.class.php 第 387 行.
+
+[ 2015-05-20T09:25:30+08:00 ] 127.0.0.1 /first/admin.php/Home/Admin/ajax_goods_list?random=0.910609207348898
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `think_goods` [ RunTime:0.0040s ]
+SQL: SELECT count(gid) as total FROM `think_goods`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\Admin\Home\Controller\AdminController.class.php 第 375 行.
+SQL: SELECT * FROM `think_goods` WHERE `gtypeid` = 4 ORDER BY gid desc LIMIT 0,16   [ RunTime:0.0000s ]
+NOTIC: [8] A non well formed numeric value encountered D:\wamp\www\First\Admin\Home\Controller\AdminController.class.php 第 387 行.
+
+[ 2015-05-20T09:25:39+08:00 ] 127.0.0.1 /first/admin.php/Home/Admin/ajax_admin_list?random=0.021027162903919816
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_user` [ RunTime:0.0030s ]
+SQL: SELECT count(uid) as total FROM `think_user`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\Admin\Home\Controller\AdminController.class.php 第 402 行.
+SQL: SELECT * FROM `think_user` ORDER BY uid desc LIMIT 0,16   [ RunTime:0.0010s ]
+NOTIC: [8] A non well formed numeric value encountered D:\wamp\www\First\Admin\Home\Controller\AdminController.class.php 第 408 行.
+NOTIC: [8] A non well formed numeric value encountered D:\wamp\www\First\Admin\Home\Controller\AdminController.class.php 第 408 行.
+NOTIC: [8] A non well formed numeric value encountered D:\wamp\www\First\Admin\Home\Controller\AdminController.class.php 第 408 行.
+NOTIC: [8] A non well formed numeric value encountered D:\wamp\www\First\Admin\Home\Controller\AdminController.class.php 第 408 行.
+NOTIC: [8] A non well formed numeric value encountered D:\wamp\www\First\Admin\Home\Controller\AdminController.class.php 第 408 行.
+NOTIC: [8] A non well formed numeric value encountered D:\wamp\www\First\Admin\Home\Controller\AdminController.class.php 第 408 行.
+NOTIC: [8] A non well formed numeric value encountered D:\wamp\www\First\Admin\Home\Controller\AdminController.class.php 第 408 行.
+NOTIC: [8] A non well formed numeric value encountered D:\wamp\www\First\Admin\Home\Controller\AdminController.class.php 第 408 行.
+NOTIC: [8] A non well formed numeric value encountered D:\wamp\www\First\Admin\Home\Controller\AdminController.class.php 第 408 行.
+NOTIC: [8] A non well formed numeric value encountered D:\wamp\www\First\Admin\Home\Controller\AdminController.class.php 第 408 行.
+
+[ 2015-05-20T09:28:38+08:00 ] 127.0.0.1 /first/admin.php/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-20T09:28:39+08:00 ] 127.0.0.1 /first/admin.php/Admin/ajax_menu_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-20T09:28:46+08:00 ] 127.0.0.1 /first/admin.php/Admin/ajax_goods_type_list?random=0.47809229465201497
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0030s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\Admin\Home\Controller\AdminController.class.php 第 357 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0010s ]
+
+[ 2015-05-20T09:28:49+08:00 ] 127.0.0.1 /first/admin.php/Admin/ajax_goods_list?random=0.6817286973819137
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `think_goods` [ RunTime:0.0030s ]
+SQL: SELECT count(gid) as total FROM `think_goods`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\Admin\Home\Controller\AdminController.class.php 第 375 行.
+SQL: SELECT * FROM `think_goods` WHERE `gtypeid` = 4 ORDER BY gid desc LIMIT 0,16   [ RunTime:0.0000s ]
+NOTIC: [8] A non well formed numeric value encountered D:\wamp\www\First\Admin\Home\Controller\AdminController.class.php 第 387 行.
+
+[ 2015-05-20T09:28:52+08:00 ] 127.0.0.1 /first/admin.php/Admin/ajax_goods_type_list?random=0.11376948282122612
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0030s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\Admin\Home\Controller\AdminController.class.php 第 357 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0010s ]
+
+[ 2015-05-20T09:28:55+08:00 ] 127.0.0.1 /first/admin.php/Admin/ajax_goods_list?gtypeid=20&random=0.16244089510291815
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_goods` [ RunTime:0.0030s ]
+SQL: SELECT count(gid) as total FROM `think_goods`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\Admin\Home\Controller\AdminController.class.php 第 375 行.
+SQL: SELECT * FROM `think_goods` WHERE `gtypeid` = 20 ORDER BY gid desc LIMIT 0,16   [ RunTime:0.0010s ]
+
+[ 2015-05-20T09:28:57+08:00 ] 127.0.0.1 /first/admin.php/Admin/ajax_goods_list?random=0.9894762823823839
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_goods` [ RunTime:0.0030s ]
+SQL: SELECT count(gid) as total FROM `think_goods`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\Admin\Home\Controller\AdminController.class.php 第 375 行.
+SQL: SELECT * FROM `think_goods` WHERE `gtypeid` = 20 ORDER BY gid desc LIMIT 0,16   [ RunTime:0.0000s ]
+
+[ 2015-05-20T09:29:01+08:00 ] 127.0.0.1 /first/admin.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+
+[ 2015-05-20T09:29:01+08:00 ] 127.0.0.1 /first/admin.php/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-20T09:29:14+08:00 ] 127.0.0.1 /first/admin.php/Admin/ajax_goods_photo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp\www\First\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2015-05-20T09:29:44+08:00 ] 127.0.0.1 /first/admin.php/Admin/ajax_goods_add?goodname=abc&goodcontent=abcd&goodaction=dsafsa&goodlocation=sfdsafdsaf&goodprice=14&goodphoto=Uploads/20150520/555be36a68436.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `think_goods` [ RunTime:0.0030s ]
+SQL: INSERT INTO `think_goods` (`goodname`,`goodcontent`,`goodlocation`,`goodphoto`,`goodprice`,`goodaction`,`time`,`gtypeid`) VALUES ('abc','abcd','sfdsafdsaf','Uploads/20150520/555be36a68436.png','14','dsafsa','2015-05-20 09:29:44','20') [ RunTime:0.0260s ]
+
+[ 2015-05-20T09:29:44+08:00 ] 127.0.0.1 /first/admin.php/Admin/ajax_goods_list?random=0.44365233392454684
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `think_goods` [ RunTime:0.0030s ]
+SQL: SELECT count(gid) as total FROM `think_goods`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\Admin\Home\Controller\AdminController.class.php 第 375 行.
+SQL: SELECT * FROM `think_goods` WHERE `gtypeid` = 20 ORDER BY gid desc LIMIT 0,16   [ RunTime:0.0010s ]
+NOTIC: [8] A non well formed numeric value encountered D:\wamp\www\First\Admin\Home\Controller\AdminController.class.php 第 387 行.
+
+[ 2015-05-20T09:30:08+08:00 ] 127.0.0.1 /first/admin.php/Admin/ajax_goods_type_list?random=0.7481971057131886
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0040s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\Admin\Home\Controller\AdminController.class.php 第 357 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0010s ]
+
+[ 2015-05-20T09:32:28+08:00 ] 127.0.0.1 /first/admin.php/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-20T09:32:28+08:00 ] 127.0.0.1 /first/admin.php/Admin/ajax_menu_list
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-20T09:32:31+08:00 ] 127.0.0.1 /first/admin.php/Admin/ajax_goods_type_list?random=0.03356751683168113
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0020s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\Admin\Home\Controller\AdminController.class.php 第 357 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0010s ]
+
+[ 2015-05-20T09:32:33+08:00 ] 127.0.0.1 /first/admin.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-05-20T09:32:33+08:00 ] 127.0.0.1 /first/admin.php/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-20T09:33:28+08:00 ] 127.0.0.1 /first/admin.php/Admin/ajax_goods_photo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp\www\First\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2015-05-20T09:33:32+08:00 ] 127.0.0.1 /first/admin.php/Admin/ajax_goods_type_add?goodtypename=%E7%BE%8E%E9%A3%9F&goodtypephoto=Uploads/20150520/555be4683bf4c.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0030s ]
+SQL: INSERT INTO `think_goods_type` (`goodtype`,`goodtypephoto`,`time`) VALUES ('美食','Uploads/20150520/555be4683bf4c.png','2015-05-20 09:33:32') [ RunTime:0.0490s ]
+
+[ 2015-05-20T09:33:32+08:00 ] 127.0.0.1 /first/admin.php/Admin/ajax_goods_type_list?random=0.8909985350910574
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0030s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\Admin\Home\Controller\AdminController.class.php 第 357 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0000s ]
+
+[ 2015-05-20T09:33:34+08:00 ] 127.0.0.1 /first/admin.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-20T09:33:34+08:00 ] 127.0.0.1 /first/admin.php/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-20T09:36:39+08:00 ] 127.0.0.1 /first/admin.php/Admin/ajax_goods_photo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.012000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp\www\First\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2015-05-20T09:36:44+08:00 ] 127.0.0.1 /first/admin.php/Admin/ajax_goods_type_add?goodtypename=%E7%94%B5%E5%BD%B1&goodtypephoto=Uploads/20150520/555be527db5ed.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0040s ]
+SQL: INSERT INTO `think_goods_type` (`goodtype`,`goodtypephoto`,`time`) VALUES ('电影','Uploads/20150520/555be527db5ed.png','2015-05-20 09:36:43') [ RunTime:0.0460s ]
+
+[ 2015-05-20T09:36:44+08:00 ] 127.0.0.1 /first/admin.php/Admin/ajax_goods_type_list?random=0.38497125194408
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0030s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\Admin\Home\Controller\AdminController.class.php 第 357 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0010s ]
+
+[ 2015-05-20T09:36:47+08:00 ] 127.0.0.1 /first/admin.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-20T09:36:47+08:00 ] 127.0.0.1 /first/admin.php/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.172010s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.172010s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.036002s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.036002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.029002s ]
+INFO: [ app_end ] --END-- [ RunTime:0.029002s ]
+
+[ 2015-05-20T09:37:10+08:00 ] 127.0.0.1 /first/admin.php/Admin/ajax_goods_photo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp\www\First\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2015-05-20T09:37:14+08:00 ] 127.0.0.1 /first/admin.php/Admin/ajax_goods_type_add?goodtypename=%E9%85%92%E5%BA%97&goodtypephoto=Uploads/20150520/555be54662756.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0040s ]
+SQL: INSERT INTO `think_goods_type` (`goodtype`,`goodtypephoto`,`time`) VALUES ('酒店','Uploads/20150520/555be54662756.png','2015-05-20 09:37:14') [ RunTime:0.0340s ]
+
+[ 2015-05-20T09:37:14+08:00 ] 127.0.0.1 /first/admin.php/Admin/ajax_goods_type_list?random=0.9379325851332396
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0020s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\Admin\Home\Controller\AdminController.class.php 第 357 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0010s ]
+
+[ 2015-05-20T09:37:16+08:00 ] 127.0.0.1 /first/admin.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-20T09:37:16+08:00 ] 127.0.0.1 /first/admin.php/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.073004s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.073004s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.005001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.012000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012000s ]
+
+[ 2015-05-20T09:37:36+08:00 ] 127.0.0.1 /first/admin.php/Admin/ajax_goods_photo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp\www\First\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2015-05-20T09:37:40+08:00 ] 127.0.0.1 /first/admin.php/Admin/ajax_goods_type_add?goodtypename=KTV&goodtypephoto=Uploads/20150520/555be560448be.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0050s ]
+SQL: INSERT INTO `think_goods_type` (`goodtype`,`goodtypephoto`,`time`) VALUES ('KTV','Uploads/20150520/555be560448be.png','2015-05-20 09:37:39') [ RunTime:0.0240s ]
+
+[ 2015-05-20T09:37:40+08:00 ] 127.0.0.1 /first/admin.php/Admin/ajax_goods_type_list?random=0.7561097051948309
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0030s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0010s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\Admin\Home\Controller\AdminController.class.php 第 357 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0010s ]
+
+[ 2015-05-20T09:37:44+08:00 ] 127.0.0.1 /first/admin.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-20T09:37:44+08:00 ] 127.0.0.1 /first/admin.php/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-05-20T09:38:00+08:00 ] 127.0.0.1 /first/admin.php/Admin/ajax_goods_photo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp\www\First\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2015-05-20T09:38:04+08:00 ] 127.0.0.1 /first/admin.php/Admin/ajax_goods_type_add?goodtypename=%E6%97%85%E6%B8%B8&goodtypephoto=Uploads/20150520/555be5780566c.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0030s ]
+SQL: INSERT INTO `think_goods_type` (`goodtype`,`goodtypephoto`,`time`) VALUES ('旅游','Uploads/20150520/555be5780566c.png','2015-05-20 09:38:04') [ RunTime:0.0850s ]
+
+[ 2015-05-20T09:38:05+08:00 ] 127.0.0.1 /first/admin.php/Admin/ajax_goods_type_list?random=0.027189897606149316
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0020s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\Admin\Home\Controller\AdminController.class.php 第 357 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0000s ]
+
+[ 2015-05-20T09:38:07+08:00 ] 127.0.0.1 /first/admin.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-20T09:38:07+08:00 ] 127.0.0.1 /first/admin.php/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-20T09:38:17+08:00 ] 127.0.0.1 /first/admin.php/Admin/ajax_goods_photo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp\www\First\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2015-05-20T09:38:21+08:00 ] 127.0.0.1 /first/admin.php/Admin/ajax_goods_type_add?goodtypename=%E5%A8%B1%E4%B9%90&goodtypephoto=Uploads/20150520/555be589bd3e4.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0030s ]
+SQL: INSERT INTO `think_goods_type` (`goodtype`,`goodtypephoto`,`time`) VALUES ('娱乐','Uploads/20150520/555be589bd3e4.png','2015-05-20 09:38:21') [ RunTime:0.0510s ]
+
+[ 2015-05-20T09:38:21+08:00 ] 127.0.0.1 /first/admin.php/Admin/ajax_goods_type_list?random=0.9308305142913014
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0020s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\Admin\Home\Controller\AdminController.class.php 第 357 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0010s ]
+
+[ 2015-05-20T09:38:26+08:00 ] 127.0.0.1 /first/admin.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-20T09:38:26+08:00 ] 127.0.0.1 /first/admin.php/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-20T09:38:37+08:00 ] 127.0.0.1 /first/admin.php/Admin/ajax_goods_photo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp\www\First\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2015-05-20T09:38:43+08:00 ] 127.0.0.1 /first/admin.php/Admin/ajax_goods_type_add?goodtypename=%E6%91%84%E5%BD%B1&goodtypephoto=Uploads/20150520/555be59d86d4f.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0020s ]
+SQL: INSERT INTO `think_goods_type` (`goodtype`,`goodtypephoto`,`time`) VALUES ('摄影','Uploads/20150520/555be59d86d4f.png','2015-05-20 09:38:43') [ RunTime:0.0310s ]
+
+[ 2015-05-20T09:38:43+08:00 ] 127.0.0.1 /first/admin.php/Admin/ajax_goods_type_list?random=0.636567507404834
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0030s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\Admin\Home\Controller\AdminController.class.php 第 357 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0000s ]
+
+[ 2015-05-20T09:38:50+08:00 ] 127.0.0.1 /first/admin.php/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-20T09:38:50+08:00 ] 127.0.0.1 /first/admin.php/Admin/admin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-20T09:39:06+08:00 ] 127.0.0.1 /first/admin.php/Admin/ajax_goods_photo
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given D:\wamp\www\First\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+
+[ 2015-05-20T09:39:10+08:00 ] 127.0.0.1 /first/admin.php/Admin/ajax_goods_type_add?goodtypename=%E7%A4%BE%E5%8C%BA&goodtypephoto=Uploads/20150520/555be5bab2f0c.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0040s ]
+SQL: INSERT INTO `think_goods_type` (`goodtype`,`goodtypephoto`,`time`) VALUES ('社区','Uploads/20150520/555be5bab2f0c.png','2015-05-20 09:39:10') [ RunTime:0.0470s ]
+
+[ 2015-05-20T09:39:10+08:00 ] 127.0.0.1 /first/admin.php/Admin/ajax_goods_type_list?random=0.2979871828574687
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `think_goods_type` [ RunTime:0.0030s ]
+SQL: SELECT count(gtypeid) as total FROM `think_goods_type`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: total D:\wamp\www\First\Admin\Home\Controller\AdminController.class.php 第 357 行.
+SQL: SELECT * FROM `think_goods_type` ORDER BY gtypeid desc LIMIT 0,16   [ RunTime:0.0010s ]
+
